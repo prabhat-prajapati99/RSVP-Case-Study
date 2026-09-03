@@ -33,7 +33,7 @@ FROM
 
 -- Similarly, write queries to find the total number of rows in each table
 select count(*) names_row_count
- from names ;
+ from Names ;
  
 select count(*)as  reting_row_count
  from ratings ;
