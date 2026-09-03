@@ -62,7 +62,7 @@ SELECT
     COUNT(*) AS year_nulls
 FROM
     movie
-WHERE year IS NULL;    
+WHERE year IS null;    
 
 -- Similarly, write queries to find the null values of remaining columns in 'movie' table 
 
