@@ -10,7 +10,7 @@ FROM
 SELECT
 	*
 FROM
-	ratings;
+	Ratings;
 
 -- Similarly, Write queries to see data values from all tables 
 
